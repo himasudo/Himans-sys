@@ -1,10 +1,21 @@
 # 🏄‍♂️ Himanshu Kandpal
 
-**`Data Geek(Machine Learning/Analytics/Engineering/ Operations)`**
+**`Backend Engineer | Distributed Systems | AI Applications`**
 
-Im a Mechanical Engineering graduate with a passion for data science. I have developed a range of skills including computer vision, NLP, and data science projects across various sectors. I have experience with the engineering, development, and operations of data science projects.
+I'm a **Backend Engineer** with experience in **building scalable and reliable APIs, distributed systems, and AI-driven applications**. My expertise spans across **Python, Django Rest Framework, PostgreSQL, Redis, Celery, Langchain, Qdrant**, and cloud technologies like **AWS and Docker**.  
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Data%20geek%20(ML/%20MLOPS/%20DE);Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22">
+💡 **What I Do:**  
+- Develop **scalable backend systems** for AI-powered applications.  
+- Work with **caching, message queues, and distributed architectures** to improve system performance.  
+- Design **efficient API integrations** for platforms like Telegram, WhatsApp, and Google services.  
+- Build **data-driven analytics and NLP applications** using Langchain & Qdrant.  
+
+🚀 **What I'm Learning:**  
+- Deepening my expertise in **distributed systems and scalable architectures**.  
+- Exploring **efficient deployment strategies with Docker, Kubernetes, and cloud platforms**.  
+
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Building%20Scalable%20APIs%20%26%20AI-driven%20Systems;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=550&height=45&color=f75c7e&vCenter=true&pause=1000&size=22">
    <p align="left">
       <a href="https://www.linkedin.com/in/himansys/">
          <img alt="youtube views" title="Linkedin account" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
