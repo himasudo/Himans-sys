@@ -19,10 +19,10 @@ I'm a **Backend Engineer** with experience in **building scalable and reliable A
    <p align="left">
       <a href="https://www.linkedin.com/in/himansys/">
          <img alt="youtube views" title="Linkedin account" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-red?style=for-the-badge&logo=mention&logoColor=white"/></a> 
-      <a href="https://github.com/HimanS-sys?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HimanS-sys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/HimanS-sys?tab=repositories&q=&type=&language=&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HimanS-sys?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/himasudo?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/himasudo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/himasudo?tab=repositories&q=&type=&language=&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/himasudo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -32,11 +32,6 @@ I'm a **Backend Engineer** with experience in **building scalable and reliable A
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -51,11 +46,11 @@ I'm a **Backend Engineer** with experience in **building scalable and reliable A
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/KeenBean024/FineSpine-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KeenBean024&repo=FineSpine-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-finespine-app"></a>
-    <a href="https://github.com/HimanS-sys/alzheimers-disease-prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HimanS-sys&repo=alzheimers-disease-prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-alzheimers-disease-prediction"></a>    
-    <a href="https://github.com/HimanS-sys/Distracted-Driver-Detection-CNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HimanS-sys&repo=Distracted-Driver-Detection-CNN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-distracted-driver-detection"></a>
-   <a href="https://github.com/HimanS-sys/WIESP-NER"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HimanS-sys&repo=WIESP-NER&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-WIESP-NER"></a>
-   <a href="https://github.com/HimanS-sys/Yelp-Recommendation-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HimanS-sys&repo=Yelp-Recommendation-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-yelp-recommendation-system"></a>    
-   <a href="https://github.com/HimanS-sys/fifa-player-position-prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HimanS-sys&repo=fifa-player-position-prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-fifa-player-position"></a>
+    <a href="https://github.com/himasudo/alzheimers-disease-prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=himasudo&repo=alzheimers-disease-prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-alzheimers-disease-prediction"></a>    
+    <a href="https://github.com/himasudo/Distracted-Driver-Detection-CNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=himasudo&repo=Distracted-Driver-Detection-CNN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-distracted-driver-detection"></a>
+   <a href="https://github.com/himasudo/WIESP-NER"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=himasudo&repo=WIESP-NER&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-WIESP-NER"></a>
+   <a href="https://github.com/himasudo/Yelp-Recommendation-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=himasudo&repo=Yelp-Recommendation-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-yelp-recommendation-system"></a>    
+   <a href="https://github.com/himasudo/fifa-player-position-prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=himasudo&repo=fifa-player-position-prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-fifa-player-position"></a>
    </p>
 </details>
 
